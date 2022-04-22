@@ -1,20 +1,30 @@
 {
-	"title" : "Simple Dash",
-	"items" : [
+	"title": "Pauls Simple Dashboard",
+	"items": [
 		{
-			"alt" : "Github",
-			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"alt": "Github",
+			"icon": "fab fa-github",
+			"link": "https://github.com/paulknulst"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"alt": "Twitter",
+			"icon": "fab fa-twitter",
+			"link": "https://twitter.com/paulknulst"
 		},
 		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"alt": "Portfolio",
+			"icon": "fab fa-fort-awesome",
+			"link": "https://www.paulknulst.de"
+		},
+		{
+			"alt": "LinkedIn",
+			"icon": "fab fa-linkedin",
+			"link": "https://www.linkedin.com/in/paulknulst/"
+		},
+		{
+			"alt": "Medium",
+			"icon": "fab fa-medium",
+			"link": "https://blog.paulknulst.de"
 		}
 	]
 }

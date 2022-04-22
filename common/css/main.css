@@ -32,8 +32,8 @@ body {
 }
 @media only screen and (min-width: 800px) {
 	#itemlist {
-		grid-template-columns: repeat(6, 1fr);
-	}
+        grid-template-columns: repeat(5, 1fr);
+    }
 }
 
 #itemlist {
